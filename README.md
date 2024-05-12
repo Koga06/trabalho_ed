@@ -1,5 +1,7 @@
 # trabalho_ed
-Trabalho 1 - Estrutura de Dados - Gabriel Meireles Dias Narciso
+Trabalho 1 - Estrutura de Dados
+Gabriel Meireles Dias Narciso
+RGA: 202219040388
 
 Tarefa 1: (consulta cidade)
 objetivo: dado o codigo_ibge retorne as informações desta cidade
